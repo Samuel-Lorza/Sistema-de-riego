@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "esp32-dev")(type "KiCad")(uri "${KIPRJMOD}/lib/ESP32/ESP32-DEVKIT-V1")(options "")(descr ""))
+  (lib (name "MH-CD42")(type "KiCad")(uri "${KIPRJMOD}/lib/MH-CD42")(options "")(descr ""))
+  (lib (name "OLED-128x64")(type "KiCad")(uri "${KIPRJMOD}/lib/DM-OLED096-636")(options "")(descr ""))
+  (lib (name "boton")(type "KiCad")(uri "${KIPRJMOD}/lib/TS02-66-95-BK-260-LCR-D")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/lib/Footprint Editados/Library.pretty")(options "")(descr ""))
+)

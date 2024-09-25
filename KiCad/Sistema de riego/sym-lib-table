@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "mh-cd42")(type "KiCad")(uri "${KIPRJMOD}/lib/MH-CD42/cd42.kicad_sym")(options "")(descr ""))
+  (lib (name "esp32-dev")(type "KiCad")(uri "${KIPRJMOD}/lib/ESP32/ESP32-DEVKIT-V1/ESP32-DEVKIT-V1.kicad_sym")(options "")(descr ""))
+  (lib (name "oled")(type "KiCad")(uri "${KIPRJMOD}/lib/DM-OLED096-636/DM-OLED096-636.kicad_sym")(options "")(descr ""))
+  (lib (name "boton")(type "KiCad")(uri "${KIPRJMOD}/lib/TS02-66-95-BK-260-LCR-D/TS02-66-95-BK-260-LCR-D.kicad_sym")(options "")(descr ""))
+)
